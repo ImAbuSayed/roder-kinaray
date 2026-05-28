@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/roder-kinaray/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Roder Kinaray](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/roder-kinaray/) |
+| **Get License** | [Obtain a Music License for Roder Kinaray](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/roder-kinaray/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> অচেনা এক আলোর নেশায় মন হারিয়ে যায়
+> আঁধারে ঢাকা এই শহরে তোমাকে শুধু চাই
+> নীরব রাতের এই নিস্তব্ধতায় খুঁজি তোমার ছায়া
+> দুচোখ জুড়ে স্বপ্নের মাঝে জড়ালে কেমন মায়া.. জড়ালে মায়া..
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
