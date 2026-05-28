@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Roder Kinaray
+
+This log tracks the cryptographic history and versioning for the song **Roder Kinaray** (roder-kinaray).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-28T14:49:28.629184 | `v1` | `b388ca64f098807b8f055a6f056f8a157ef6078c4aefd095b97972ec66ac0fb8` | `0d1a00cb129beaab343abbadbea76a3c1e19708e4079dc5929434d49a6f28d97` | `2026-05-28_roder-kinaray-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

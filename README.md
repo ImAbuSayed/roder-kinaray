@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/roder-kinaray/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Roder Kinaray](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/roder-kinaray/) |
+| **Get License** | [Official Music Licensing for Roder Kinaray](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/roder-kinaray/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `b388ca64f098807b8f055a6f056f8a157ef6078c4aefd095b97972ec66ac0fb8` |
 | **Timestamp** | May 28, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
